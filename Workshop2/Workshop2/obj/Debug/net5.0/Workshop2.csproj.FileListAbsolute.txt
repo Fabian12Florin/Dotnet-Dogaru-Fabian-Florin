@@ -1,0 +1,16 @@
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.exe
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.deps.json
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.runtimeconfig.json
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.runtimeconfig.dev.json
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.dll
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\ref\Workshop2.dll
+D:\Proiecte_C#\Workshop2\Workshop2\bin\Debug\net5.0\Workshop2.pdb
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.csproj.AssemblyReference.cache
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.AssemblyInfoInputs.cache
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.AssemblyInfo.cs
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.csproj.CoreCompileInputs.cache
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.dll
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\ref\Workshop2.dll
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.pdb
+D:\Proiecte_C#\Workshop2\Workshop2\obj\Debug\net5.0\Workshop2.genruntimeconfig.cache
