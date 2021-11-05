@@ -1,0 +1,16 @@
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.exe
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.deps.json
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.runtimeconfig.json
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.runtimeconfig.dev.json
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.dll
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\ref\Dogaru-Fabian-Florin.dll
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\bin\Debug\net5.0\Dogaru-Fabian-Florin.pdb
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.csproj.AssemblyReference.cache
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.AssemblyInfoInputs.cache
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.AssemblyInfo.cs
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.csproj.CoreCompileInputs.cache
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.dll
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\ref\Dogaru-Fabian-Florin.dll
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.pdb
+D:\Proiecte_C#\Dogaru-Fabian-Florin\Dogaru-Fabian-Florin\obj\Debug\net5.0\Dogaru-Fabian-Florin.genruntimeconfig.cache

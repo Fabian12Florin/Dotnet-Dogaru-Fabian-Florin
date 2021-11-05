@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dogaru-Fabian-Florin/1.0.0": {
+        "runtime": {
+          "Dogaru-Fabian-Florin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dogaru-Fabian-Florin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
